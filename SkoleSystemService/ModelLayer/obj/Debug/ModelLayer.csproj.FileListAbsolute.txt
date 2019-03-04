@@ -1,0 +1,11 @@
+C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\bin\Debug\ModelLayer.dll
+C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.dll
+C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.pdb
+C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\bin\Debug\ModelLayer.dll
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\bin\Debug\ModelLayer.pdb
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\obj\Debug\ModelLayer.dll
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\obj\Debug\ModelLayer.pdb

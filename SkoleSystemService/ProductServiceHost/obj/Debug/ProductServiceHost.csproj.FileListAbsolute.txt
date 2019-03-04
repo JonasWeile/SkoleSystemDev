@@ -1,0 +1,17 @@
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductServiceHost.exe.config
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductServiceHost.exe
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductServiceHost.pdb
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.exe
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.pdb
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductService.dll
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ModelLayer.dll
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductService.pdb
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductService.dll.config
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ModelLayer.pdb
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.csprojAssemblyReference.cache
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.csproj.CopyComplete
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductServiceHost.exe.manifest
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\bin\Debug\ProductServiceHost.application
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.exe.manifest
+C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ProductServiceHost\obj\Debug\ProductServiceHost.application
