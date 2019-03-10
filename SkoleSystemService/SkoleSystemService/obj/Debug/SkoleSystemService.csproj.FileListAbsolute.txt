@@ -1,0 +1,10 @@
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\bin\Debug\SkoleSystemService.dll.config
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\bin\Debug\SkoleSystemService.dll
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\bin\Debug\SkoleSystemService.pdb
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\obj\Debug\SkoleSystemService.csproj.CoreCompileInputs.cache
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\obj\Debug\SkoleSystemService.dll
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\obj\Debug\SkoleSystemService.pdb
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\obj\Debug\SkoleSystemService.csprojAssemblyReference.cache
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\bin\Debug\ModelLayer.dll
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\bin\Debug\ModelLayer.pdb
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemService\obj\Debug\SkoleSystemService.csproj.CopyComplete

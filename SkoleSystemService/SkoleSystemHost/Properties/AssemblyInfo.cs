@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModelLayer")]
+[assembly: AssemblyTitle("SkoleSystemHost")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModelLayer")]
+[assembly: AssemblyProduct("SkoleSystemHost")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("fff517bc-1581-4d7f-b715-fe4d39e130ee")]
+[assembly: Guid("47a1d05a-ad63-42ad-bf4c-afd8d2f3e53c")]
 
 // Version information for an assembly consists of the following four values:
 //
