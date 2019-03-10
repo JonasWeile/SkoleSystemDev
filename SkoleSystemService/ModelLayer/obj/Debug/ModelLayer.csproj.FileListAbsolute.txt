@@ -1,11 +1,6 @@
-C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
-C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\bin\Debug\ModelLayer.dll
-C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\bin\Debug\ModelLayer.pdb
-C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.dll
-C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.pdb
-C:\DMA_Programming\CSharp\wcf\DemoHost\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
-C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\bin\Debug\ModelLayer.dll
-C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\bin\Debug\ModelLayer.pdb
-C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
-C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\obj\Debug\ModelLayer.dll
-C:\Users\vem66\Desktop\Skole\4Semester\DemoHost\ModelLayer\obj\Debug\ModelLayer.pdb
+c:\users\vem66\source\repos\SkoleSystemService\ModelLayer\bin\Debug\ModelLayer.dll
+c:\users\vem66\source\repos\SkoleSystemService\ModelLayer\bin\Debug\ModelLayer.pdb
+c:\users\vem66\source\repos\SkoleSystemService\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+c:\users\vem66\source\repos\SkoleSystemService\ModelLayer\obj\Debug\ModelLayer.dll
+c:\users\vem66\source\repos\SkoleSystemService\ModelLayer\obj\Debug\ModelLayer.pdb
+C:\Users\vem66\source\repos\SkoleSystemService\ModelLayer\obj\Debug\ModelLayer.csprojAssemblyReference.cache
