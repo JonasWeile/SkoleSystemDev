@@ -1,0 +1,13 @@
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\obj\Debug\SkoleSystemHost.csprojAssemblyReference.cache
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\obj\Debug\SkoleSystemHost.csproj.CoreCompileInputs.cache
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\SkoleSystemHost.exe.config
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\SkoleSystemHost.exe
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\SkoleSystemHost.pdb
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\SkoleSystemService.dll
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\SkoleSystemService.pdb
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\SkoleSystemService.dll.config
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\obj\Debug\SkoleSystemHost.csproj.CopyComplete
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\obj\Debug\SkoleSystemHost.exe
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\obj\Debug\SkoleSystemHost.pdb
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\ModelLayer.dll
+c:\users\vem66\source\repos\SkoleSystemService\SkoleSystemHost\bin\Debug\ModelLayer.pdb
